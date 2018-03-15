@@ -1,4 +1,4 @@
-= To Export Data to External Analytics Tools (Hybrid)
+= To Export Data to External Analytics Tools (Hybrid/On-Prem)
 keywords: analytics, monitoring, splunk, elk, elastisearch, logstash, kibana, logs, mule events, logging, api analytics, metrics, traceability, arm, anypoint runtime manager
 
 This topic describes how to configure Runtime Manager to export data to external analytics tools. This enables you to send the event notifications of your Mule Applications to 3rd part tool such as Splunk and ELK.
